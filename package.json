@@ -1,0 +1,29 @@
+{
+  "name": "v3-hw-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "type": "modules",
+  "scripts": {
+    "start": "node src/ser.js",
+    "dev": "node src/server.js",
+    "lint": "eslint src/**/*.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint": "^9.30.1",
+    "esllint": "^9.30.1",
+    "globa": "^16.3.0",
+    "nodemon": "^3.1.10",
+    "pino-prety": "^13.0.0"
+  },
+  "dependencies": {
+    "core": "^2.8.5",
+    "doten": "^17.0.1",
+    "expres": "^5.1.0",
+    "pino-https": "^10.5.0"
+  }
+}
