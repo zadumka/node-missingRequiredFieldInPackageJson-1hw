@@ -21,9 +21,15 @@
     "pino-prety": "^13.0.0"
   },
   "dependencies": {
-    "core": "^2.8.5",
-    "doten": "^17.0.1",
-    "expres": "^5.1.0",
-    "pino-https": "^10.5.0"
+    "bcrypt": "^6.0.0",
+    "celebrate": "^15.0.3",
+    "cloudinary": "^2.7.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^5.1.0",
+
+    "http-errors": "^2.0.0"
+
   }
 }
